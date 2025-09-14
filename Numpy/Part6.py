@@ -14,3 +14,9 @@ print(arr2)
 print(arr2[:,2])  #slicing in 2-d array
 
 print(arr2[1:4,2]) #1 to 3 rows and 2nd column
+
+print(arr2[2:4,1:3])
+print(arr2[4:6,2:4])
+
+for i in np.nditer(arr2):
+    print(i)
