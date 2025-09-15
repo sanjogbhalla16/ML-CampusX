@@ -30,3 +30,6 @@ print(arr4.mean(axis=0)) #column wise mean
 print(arr4.mean(axis=1)) #row wise mean
 print(np.sqrt(arr4))  #square root of each element
 print(np.std(arr4))   #standard deviation
+print(np.median(arr4)) #median
+print(np.exp(arr4))  #exponential of each element
+print(np.log(arr4))  #logarithm of each element
