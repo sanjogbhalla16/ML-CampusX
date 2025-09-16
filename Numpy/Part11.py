@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+#%%matplotlib inline
 
 x = np.linspace(-40,40,100)
 # print(x)
