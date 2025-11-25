@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["dayofweek", "distplot", "figsize"]
+  "cSpell.words": ["dayofweek", "distplot", "figsize"],
+  "python.analysis.autoImportCompletions": true
 }
