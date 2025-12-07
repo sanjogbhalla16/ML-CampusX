@@ -3,6 +3,7 @@
     "dayofweek",
     "distplot",
     "figsize",
+    "Mera",
     "Pclass",
     "Winsorization",
     "zlabel"
