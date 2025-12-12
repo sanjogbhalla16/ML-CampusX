@@ -6,8 +6,9 @@
     "figsize",
     "Mera",
     "Pclass",
+    "randn",
     "Winsorization",
     "zlabel"
   ],
-  "python.analysis.autoImportCompletions": true
+  "python.analysis.autoImportCompletions": false
 }
