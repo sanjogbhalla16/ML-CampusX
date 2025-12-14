@@ -4,6 +4,7 @@
     "dayofweek",
     "distplot",
     "figsize",
+    "linalg",
     "Mera",
     "Pclass",
     "randn",
